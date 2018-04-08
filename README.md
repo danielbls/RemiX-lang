@@ -14,7 +14,6 @@ namespace RemiX
     }
 }
 ```
-***
 ## Modifiers
 - ABSTRACT
 - EXTERN
@@ -27,7 +26,6 @@ namespace RemiX
 - UNSAFE
 - VIRTUAL
 - VOLATILE
-*** 
 ## Types
 ### Integral Types
 - SBYTE
@@ -39,7 +37,6 @@ namespace RemiX
 - LONG 
 - ULONG 
 - CHAR
-    
 ### Other Types
 - FLOAT 
 - DOUBLE 
