@@ -1,6 +1,6 @@
 # RemiX-lang
 Better than Greg's language because this one exists.
-This is follows the C# syntax, but will be much easier to use.
+This language follows the C# syntax, but will be much easier to use.
 
 ### Getting Started
 ```
