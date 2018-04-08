@@ -30,24 +30,24 @@ namespace RemiX
 *** 
 ## Types
 ### Integral Types
-    -SBYTE
-    -BYTE 
-    -SHORT 
-    -USHORT 
-    -INT 
-    -UINT 
-    -LONG 
-    -ULONG 
-    -CHAR
+* SBYTE
+* BYTE 
+* SHORT 
+* USHORT 
+* INT 
+* UINT 
+* LONG 
+* ULONG 
+* CHAR
     
 ### Other Types
-    -FLOAT 
-    -DOUBLE 
-    -DECIMAL 
-    -BOOL 
-    -VOID 
-    -OBJECT 
-    -STRING 
+* FLOAT 
+* DOUBLE 
+* DECIMAL 
+* BOOL 
+* VOID 
+* OBJECT 
+* STRING 
 
 
 
