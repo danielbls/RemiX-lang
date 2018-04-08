@@ -15,7 +15,7 @@ namespace RemiX
     {
         public static void Main(string[] args)
         {
-            println("*RemiX is here!");
+            PrintLine("RemiX is here!");
         }
     }
 }
@@ -61,13 +61,13 @@ namespace RemiX
     </dd>
 </dl>
 
-#### *Function:* println
+#### *Function:* PrintLine
 Prints a line to the console/terminal.
 ##### Arguments
 *String variable* or *String literal*
 ##### Example
 ```
-println("How are you?");
+PrintLine("How are you?");
 ```
 ##### Output
 ```
