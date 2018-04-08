@@ -52,6 +52,19 @@ namespace RemiX
 - OBJECT 
 - STRING 
 
-
-
+## Functions
+### System
+Functions.System is always available, so you won't have to include this manually with `using Functions.System;`
+#### println
+Prints a line to the console/terminal.
+**Arguments**
+String variable or String literal
+**Example**
+```
+println("How are you?");
+```
+**Output**
+```
+> How are you?
+```
 More to come soon.
