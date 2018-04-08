@@ -1,0 +1,12 @@
+﻿namespace remix
+{
+	public class test
+	{
+		public static void main(string[] args)
+		{
+			println("* Records Scratching *");
+			println("RemiX can print a line...");
+			println("But your ReadMe is still sexy ;)");
+		}
+	}
+}
