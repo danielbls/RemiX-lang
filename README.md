@@ -1,6 +1,12 @@
 # RemiX-lang
 Better than Greg's language because this one exists.
 This language follows the C# syntax, but will be much easier to use.
+## Executing Your Program
+The default input file is **`main.rmx`**.  You can use a different input file by passing the input source as a parmeter when executing RemiX.exe.
+```
+RemiX.exe some_file.rmx
+```
+
 ## Example Code
 ```
 namespace RemiX
