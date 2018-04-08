@@ -4,9 +4,9 @@
 	{
 		public static void main(string[] args)
 		{
-			println("* Records Scratching *");
-			println("RemiX can print a line...");
-			println("But your ReadMe is still sexy ;)");
+			PrintLine("* Records Scratching *");
+			PrintLine("RemiX can print a line...");
+			PrintLine("But your ReadMe is still sexy ;)");
 		}
 	}
 }
