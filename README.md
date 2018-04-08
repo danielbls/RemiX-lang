@@ -64,7 +64,7 @@ namespace RemiX
 #### *Function:* println
 Prints a line to the console/terminal.
 ##### Arguments
-String variable or String literal
+*String variable* or *String literal*
 ##### Example
 ```
 println("How are you?");
