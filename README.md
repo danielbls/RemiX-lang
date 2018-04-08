@@ -16,17 +16,17 @@ namespace RemiX
 ```
 ***
 ## Modifiers
-- abstract
-- extern
-- new
-- override
-- partial
-- readonly
-- sealed
-- static
-- unsafe
-- virtual
-- volatile
+- ABSTRACT
+- EXTERN
+- NEW
+- OVERRIDE
+- PARTIAL
+- READONLY
+- SEALED
+- STATIC
+- UNSAFE
+- VIRTUAL
+- VOLATILE
 *** 
 ## Types
 ### Integral Types
