@@ -55,13 +55,13 @@ namespace RemiX
 ## Functions
 ### System
 <dl>
-    <dt>Functions.System</dt>
+    <dt>Note</dt>
     <dd>
         Functions.System is always available, so you won't have to include this manually with <em>using Functions.System;</em>
     </dd>
 </dl>
 
-#### println
+#### *Function: * println
 Prints a line to the console/terminal.
 ##### Arguments
 String variable or String literal
