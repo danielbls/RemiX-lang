@@ -55,6 +55,7 @@ namespace RemiX
 ## Functions
 ### System
 Functions.System is always available, so you won't have to include this manually with `using Functions.System;`
+***
 #### println
 Prints a line to the console/terminal.
 ##### Arguments
@@ -67,4 +68,6 @@ println("How are you?");
 ```
 > How are you?
 ```
+***
+
 More to come soon.
