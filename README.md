@@ -57,7 +57,7 @@ namespace RemiX
 <dl>
     <dt>Functions.System</dt>
     <dd>
-        Functions.System is always available, so you won't have to include this manually with `using Functions.System;`
+        Functions.System is always available, so you won't have to include this manually with <em>using Functions.System;</em>
     </dd>
 </dl>
 
