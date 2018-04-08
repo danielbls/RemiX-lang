@@ -1,8 +1,7 @@
 # RemiX-lang
 Better than Greg's language because this one exists.
 This language follows the C# syntax, but will be much easier to use.
-
-### Getting Started
+## Example Code
 ```
 namespace RemiX
 {
@@ -15,5 +14,18 @@ namespace RemiX
     }
 }
 ```
+
+## Modifiers:
+ 	-abstract
+  	-extern
+  	-new
+  	-override
+  	-partial
+  	-readonly
+  	-sealed
+  	-static
+  	-unsafe
+  	-virtual
+    -volatile
 
 More to come soon.
