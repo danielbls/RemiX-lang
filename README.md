@@ -14,8 +14,8 @@ namespace RemiX
     }
 }
 ```
-
-## Modifiers:
+***
+## Modifiers
  	-abstract
   	-extern
   	-new
@@ -27,5 +27,28 @@ namespace RemiX
   	-unsafe
   	-virtual
     -volatile
+*** 
+## Types
+### Integral Types
+    -SBYTE
+    -BYTE 
+    -SHORT 
+    -USHORT 
+    -INT 
+    -UINT 
+    -LONG 
+    -ULONG 
+    -CHAR
+    
+### Other Types
+    -FLOAT 
+    -DOUBLE 
+    -DECIMAL 
+    -BOOL 
+    -VOID 
+    -OBJECT 
+    -STRING 
+
+
 
 More to come soon.
